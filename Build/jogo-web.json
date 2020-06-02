@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "apocalipse-zumbi-alura",
+"productName": "JogoZumbi",
 "productVersion": "1.0",
 "dataUrl": "jogo-web.data.unityweb",
 "wasmCodeUrl": "jogo-web.wasm.code.unityweb",
